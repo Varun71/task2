@@ -23,7 +23,7 @@
 
     <!-- Hero Section -->
     <section class="hero">
-        <h1>Hello, I'm Scion S Vayalil</h1>
+        <h1>Hello, I'm Varun Sankar R</h1>
         <p>Aspiring Developer | Designer | Problem Solver</p>
     </section>
 
@@ -66,12 +66,12 @@
     <!-- Contact Section -->
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>You can reach me at: <a href="mailto:scionsv2@gmail.com">scionsv2@gmail.com</a></p>
+        <p>You can reach me at: <a href="mailto:varunsankar34@gmail.com">varunsankar34@gmail.com</a></p>
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 Scion S Vayalil,C.E.M.Punnapra. All Rights Reserved.</p>
+        <p>&copy; 2024 Varun Sankar R,C.E.M.Punnapra. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
